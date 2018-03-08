@@ -1,0 +1,10 @@
+E:\projects\C# project\QR_code\QR_code\bin\Debug\QR_code.exe.config
+E:\projects\C# project\QR_code\QR_code\bin\Debug\QR_code.exe
+E:\projects\C# project\QR_code\QR_code\bin\Debug\QR_code.pdb
+E:\projects\C# project\QR_code\QR_code\bin\Debug\MessagingToolkit.QRCode.dll
+E:\projects\C# project\QR_code\QR_code\obj\Debug\QR_code.csprojResolveAssemblyReference.cache
+E:\projects\C# project\QR_code\QR_code\obj\Debug\QR_code.Form1.resources
+E:\projects\C# project\QR_code\QR_code\obj\Debug\QR_code.Properties.Resources.resources
+E:\projects\C# project\QR_code\QR_code\obj\Debug\QR_code.csproj.GenerateResource.Cache
+E:\projects\C# project\QR_code\QR_code\obj\Debug\QR_code.exe
+E:\projects\C# project\QR_code\QR_code\obj\Debug\QR_code.pdb
